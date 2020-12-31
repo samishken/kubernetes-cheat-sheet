@@ -14,7 +14,9 @@
 9) kubectl logs <pod name>
 10) kubectl exec -it <pod name> -- bin/bash
 11) kubectl apply -f <name of config file .yaml>
-
+12) To get detail information about a Pods - ex. ip addr
+     run "kubectl get pod -o wide"
+13) 
 
 
 ## kubectl commands
